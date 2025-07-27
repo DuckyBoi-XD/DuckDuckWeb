@@ -1,0 +1,11 @@
+img {
+width: 400px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Lexend';
+    background: rgb(225, 255, 255);
+    background-color: rgb(216, 198, 255);
+    color: rgb(41, 10, 67)
+}
